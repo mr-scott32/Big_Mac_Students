@@ -42,5 +42,6 @@ Complete in the following order:
 
 5) __BigMacDataOmega.ipynb__ - Complete this activity using all you have learned. This will prepare you for your assessment task.
 
-
+## TO ASSIST YOU
+These were developed to apply what you can learn from the Pandas tutorials from the other repository. If you go into the [even-more-python-for-beginners-data-tools](https://github.com/mr-scott32/9CT-Python-Tutorials/tree/main/even-more-python-for-beginners-data-tools) from our other repository, you can follow along to learn each concept as you complete the Big Mac Activities.
 
